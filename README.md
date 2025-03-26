@@ -1,2 +1,2 @@
-# MishraJee
+# Shopcent
 Online shopping app
